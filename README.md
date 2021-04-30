@@ -1,10 +1,10 @@
-# Intro To Ruby Iterators
+# Introduction To Ruby Iterators
 
 ## Objectives
 
 1. Understand the difference between looping and iterating.
 2. Learn how to pass a block to an iterator.
-3. `do;end` block syntax.
+3. `do/end` block syntax.
 4. `{ }` block syntax.
 5. Capture a value yielded to the block by the iterator in `| |` (pipes).
 6. Use a captured yield value within the iterator's block.
